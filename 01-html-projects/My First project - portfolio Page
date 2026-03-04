@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kathan Shah | Portfolio</title>
+    <title>My Portfolio</title>
 </head>
 <body style="font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; color: #333;">
 
@@ -53,13 +53,13 @@
         <h2>Get In Touch</h2>
         <p>Email: <a href="mailto:kathan21042007@gmail.com">kathan21042007@gmail.com</a></p>
         <p>
-            <a href="https://www.linkedin.com/in/kathan-shah-752720337">LinkedIn</a> | 
-            <a href="https://github.com/kathanshah21">GitHub</a>
+            <a href="www.linkedin.com/in/kathan-shah-752720337">LinkedIn</a> | 
+            <a href="https://github.com/kathanshah21">GitHub</a> | 
         </p>
     </section>
 
     <footer style="text-align: center; font-size: 0.8em; color: #777; margin-top: 50px;">
-        <p>&copy; 2026 Kathan Shah. Built with pure HTML.</p>
+        <p>&copy; 2026 Your Name. Built with pure HTML.</p>
     </footer>
 
 </body>
